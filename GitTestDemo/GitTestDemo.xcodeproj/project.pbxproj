@@ -15,6 +15,7 @@
 		1D0FD0F3219EB82B00EAFD3E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0FD0F2219EB82B00EAFD3E /* main.m */; };
 		1D0FD0FD219EB82B00EAFD3E /* GitTestDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0FD0FC219EB82B00EAFD3E /* GitTestDemoTests.m */; };
 		1D0FD108219EB82B00EAFD3E /* GitTestDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0FD107219EB82B00EAFD3E /* GitTestDemoUITests.m */; };
+		1D0FD117219EB8CD00EAFD3E /* NewFeatureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0FD116219EB8CD00EAFD3E /* NewFeatureViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		1D0FD103219EB82B00EAFD3E /* GitTestDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D0FD107219EB82B00EAFD3E /* GitTestDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestDemoUITests.m; sourceTree = "<group>"; };
 		1D0FD109219EB82B00EAFD3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D0FD115219EB8CD00EAFD3E /* NewFeatureViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewFeatureViewController.h; sourceTree = "<group>"; };
+		1D0FD116219EB8CD00EAFD3E /* NewFeatureViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewFeatureViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				1D0FD0E4219EB81E00EAFD3E /* AppDelegate.m */,
 				1D0FD0E6219EB81E00EAFD3E /* ViewController.h */,
 				1D0FD0E7219EB81E00EAFD3E /* ViewController.m */,
+				1D0FD115219EB8CD00EAFD3E /* NewFeatureViewController.h */,
+				1D0FD116219EB8CD00EAFD3E /* NewFeatureViewController.m */,
 				1D0FD0E9219EB81E00EAFD3E /* Main.storyboard */,
 				1D0FD0EC219EB82A00EAFD3E /* Assets.xcassets */,
 				1D0FD0EE219EB82B00EAFD3E /* LaunchScreen.storyboard */,
@@ -264,6 +269,7 @@
 			files = (
 				1D0FD0E8219EB81E00EAFD3E /* ViewController.m in Sources */,
 				1D0FD0F3219EB82B00EAFD3E /* main.m in Sources */,
+				1D0FD117219EB8CD00EAFD3E /* NewFeatureViewController.m in Sources */,
 				1D0FD0E5219EB81E00EAFD3E /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
